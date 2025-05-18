@@ -51,7 +51,7 @@ Tối ưu hóa mã nguồn, hình ảnh và tài nguyên trong ứng dụng đ�
 <p>- Thông báo : tích hợp các trạng thái thông báo để người dùng có thể điều chỉnh.</p>
 <p>- Các chức năng cơ bản khác : search , calender,....</p>
 
-<h2>Hình ảnh trang web:</h2>
+<h2>Hình ảnh thiết kế:</h2>
 <img src="https://github.com/danghuy1101/Nhom6_HeThongQuanLyThuVien_T5_Ca2/assets/129248539/1f939402-bdcd-40f1-b70a-7639ca387548" href="Trang chu"/>
 <img src="https://user-images.githubusercontent.com/129248539/281589873-a0d7ae86-a5aa-447a-927f-e94e64ba672f.png"/>
 <img src="https://user-images.githubusercontent.com/129248539/281589879-5ed6a0a3-83ea-4a77-a72a-cb85dd1d67c5.png" />
