@@ -1,5 +1,7 @@
 # AI-AND-BLOCKCHAIN-WALLET---MetaMinds
-<img src="https://assets.website-files.com/604a97c70aee09eed25ce991/61897a35583a9b51db018d3e_MartinPublicSeating-97560-Importance-School-Library-blogbanner1.jpg"/>
+<div style="text-align: center;">
+  <img style="display: block; margin: 0 auto;" src="https://github.com/user-attachments/assets/c3f8e620-b32f-4609-a8fb-8b912d8511a6"/>
+</div>
 <h2>Giới thiệu đề tài:</h2>
 <p>- Ví sinh viên thông minh không chỉ đơn thuần là công cụ lưu trữ tiền tệ, mà còn là giải pháp toàn diện nhằm tối ưu hóa quản lý tài chính cá nhân và hỗ trợ thói quen chi tiêu hợp lý trong môi trường học đường. Thông qua giao diện thân thiện và trực quan, người dùng có thể dễ dàng theo dõi thu nhập – chi tiêu hàng ngày, phân loại các khoản chi theo từng danh mục như học phí, ăn uống, giải trí hay mua sắm cá nhân. Ứng dụng tự động ghi nhận và thống kê các giao dịch theo thời gian thực, giúp sinh viên có cái nhìn toàn diện về tình hình tài chính của mình và từ đó đưa ra quyết định chi tiêu hợp lý.</p>
 
