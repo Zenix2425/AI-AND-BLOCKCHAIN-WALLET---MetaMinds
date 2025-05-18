@@ -52,9 +52,8 @@ Tối ưu hóa mã nguồn, hình ảnh và tài nguyên trong ứng dụng đ�
 <p>- Các chức năng cơ bản khác : search , calender,....</p>
 
 <h2>Hình ảnh thiết kế:</h2>
-<img src="https://github.com/danghuy1101/Nhom6_HeThongQuanLyThuVien_T5_Ca2/assets/129248539/1f939402-bdcd-40f1-b70a-7639ca387548" href="Trang chu"/>
+<img src="https://github.com/user-attachments/assets/78536850-3d7f-4ae3-ba11-f57cb33bff14"/>
 <img src="https://user-images.githubusercontent.com/129248539/281589873-a0d7ae86-a5aa-447a-927f-e94e64ba672f.png"/>
-<img src="https://user-images.githubusercontent.com/129248539/281589879-5ed6a0a3-83ea-4a77-a72a-cb85dd1d67c5.png" />
-<img src="https://user-images.githubusercontent.com/129248539/281589882-6ae92c92-4e16-484f-9bf4-92c5c5e2fe91.png"/>
+
 
 
