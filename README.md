@@ -52,7 +52,7 @@ Tối ưu hóa mã nguồn, hình ảnh và tài nguyên trong ứng dụng đ�
 <p>- Các chức năng cơ bản khác : search , calender,....</p>
 
 <h2>Nội dung làm được:</h2>
-<p>Để trải nghiệm trực tiếp giao diện và tính năng của ví điện tử sinh viên thông minh, quý Ban giám khảo có thể truy cập bản thiết kế nguyên mẫu (interactive prototype) tại link dưới đây:</p> <p><a href="https://www.figma.com/design/KWwMIk8yBQBu5jEl7fyx9n/Untitled?node-id=0-1&p=f&t=NTQEUqG6WFEFAV2d-0" target="_blank"><strong>👉 Link Figma Prototype tại đây</strong></a></p> <p>Lưu ý: Nếu không truy cập được, vui lòng đăng nhập tài khoản Figma để có quyền xem.</p>
+<p>Để trải nghiệm trực tiếp giao diện và tính năng của ví điện tử sinh viên thông minh, quý Ban giám khảo có thể truy cập bản thiết kế nguyên mẫu (interactive prototype) tại link dưới đây:</p> <p><a href="https://www.figma.com/proto/KWwMIk8yBQBu5jEl7fyx9n/Wallet?node-id=0-1&t=4UlTs3J5n1eC5zEZ-1" target="_blank"><strong>👉 Link Figma Prototype tại đây</strong></a></p> <p>Lưu ý: Nếu không truy cập được, vui lòng đăng nhập tài khoản Figma để có quyền xem.</p>
 
 <h2>Hình ảnh thiết kế:</h2>
 <img src="https://github.com/user-attachments/assets/78536850-3d7f-4ae3-ba11-f57cb33bff14"/>
